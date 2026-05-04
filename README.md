@@ -33,7 +33,7 @@
 
 ### 🔹 Ping Me – Real-time Chat App  
 🚀 MERN + Socket.io  
-🔗 [Live Demo](#) | [Code](#)  
+🔗 [Live Demo](https://ping-me-navy.vercel.app/) | [Code](https://github.com/ArnabMallick12/PingMe)  
 - Real-time messaging system  
 - Clean UI with React  
 - REST APIs + MongoDB backend  
@@ -42,7 +42,7 @@
 
 ### 🔹 BidBazaar – Auction Platform  
 🚀 React + Node + MongoDB  
-🔗 [Live Demo](#) | [Code](#)  
+🔗 [Live Demo](https://bid-bazaar-full-stack.vercel.app/) | [Code](https://github.com/ArnabMallick12/BidBazaar-FullStack)  
 - Live bidding system  
 - Dynamic listings  
 - Secure backend APIs  
@@ -51,7 +51,7 @@
 
 ### 🔹 Eco Decor – Sustainable E-Commerce 🌱  
 🚀 MERN Stack  
-🔗 [Live Demo](#) | [Code](#)  
+🔗 [Live Demo](https://eco-decor.netlify.app/) | [Code](https://github.com/ArnabMallick12/Eco-Commerce)  
 - Cart + Order system  
 - Product upload feature  
 - Emission tracking system  
