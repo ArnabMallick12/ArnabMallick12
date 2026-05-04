@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnab Mallick</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+%2B+Mobile+Developer;MERN+Stack+%26+React+Native;Building+Scalable+Real-Time+Apps;Open+to+Internships" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with focus on **MERN Stack**
+- 💻 Full Stack + Mobile Developer with focus on **MERN Stack & React Native**
 - ⚡ Strong in **DSA, DBMS, and System Design**
-- 🌱 Currently diving into **real-time systems & backend scaling**
+- 🌱 Currently exploring **real-time systems, backend scaling & cross-platform apps**
 - 🎯 Building products that are **fast, scalable & user-focused**
 
 ---
@@ -24,19 +24,26 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,mongodb,mysql,git,github,vite,postman" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react" /> <!-- React Native (same icon) -->
 
+</p>
+
+<p align="center">
+  React Native (Expo) • Socket.io • Zustand
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Ping Me – Real-time Chat App  
-🚀 MERN + Socket.io  
-🔗 [Live Demo](https://ping-me-navy.vercel.app/) | [Code](https://github.com/ArnabMallick12/PingMe)  
-- Real-time messaging system  
-- Clean UI with React  
-- REST APIs + MongoDB backend  
+### 🔹 Ping Me – Cross-Platform Real-Time Chat App  
+🚀 MERN + React Native + Socket.io  
+🔗 [Web Demo](https://ping-me-navy.vercel.app/) | [Web Repo](https://github.com/ArnabMallick12/PingMe) | [Mobile Repo](https://github.com/ArnabMallick12/PingMe-Mobile)  
+- Cross-platform chat app with **React (web) + React Native (mobile)**  
+- Real-time messaging with **Socket.io (delivery, presence, typing indicators)**  
+- Shared Node.js backend with **REST APIs and MongoDB**  
+- Smooth state management using **Zustand**
 
 ---
 
@@ -84,8 +91,8 @@
 
 ## 🎯 Current Focus
 
-- ⚡ Building **real-time & scalable apps**
-- 🧠 Improving **backend architecture**
+- ⚡ Building **real-time & cross-platform apps**
+- 🧠 Improving **backend architecture & scalability**
 - 🎯 Cracking **internships & SDE roles**
 
 ---
@@ -98,4 +105,4 @@
 
 ---
 
-⭐️ *Actively looking for Full Stack / Software Development Internships*
+⭐️ *Actively looking for Full Stack / Mobile / Software Development Internships*
