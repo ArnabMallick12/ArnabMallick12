@@ -69,9 +69,9 @@
 ## 📫 Connect With Me
 
 - 📧 Email: arnavmallick12006@gmail.com  
-- 🔗 LinkedIn: [[Add Link]](https://www.linkedin.com/in/arnab-mallick-86769a237/)  
-- 💻 Portfolio:[ [Add Link]](https://arnab-mallick.vercel.app/)  
-- 🧠 LeetCode: [[Add Link] ](https://leetcode.com/u/mallick126/) 
+- 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/arnab-mallick-86769a237/)  
+- 💻 Portfolio:[Click Here](https://arnab-mallick.vercel.app/)  
+- 🧠 LeetCode: [Click Here](https://leetcode.com/u/mallick126/) 
 
 ---
 
